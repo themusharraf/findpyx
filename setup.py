@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'findpyx'
 DESCRIPTION = 'Python find files script'
-URL = 'https://github.com/themusharraf/findfiles'
+URL = 'https://github.com/themusharraf/findpyx'
 EMAIL = 'meibrohimov@gmail.com'
 AUTHOR = 'Musharraf Ibragimov'
 REQUIRES_PYTHON = '>=3.9.0'
